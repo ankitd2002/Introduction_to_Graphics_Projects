@@ -1,0 +1,4 @@
+/Users/AnkitDahiya/Desktop/305Graphics/Assignment_5/build/CMakeFiles/assignment5.dir
+/Users/AnkitDahiya/Desktop/305Graphics/Assignment_5/build/CMakeFiles/examples.dir
+/Users/AnkitDahiya/Desktop/305Graphics/Assignment_5/build/CMakeFiles/edit_cache.dir
+/Users/AnkitDahiya/Desktop/305Graphics/Assignment_5/build/CMakeFiles/rebuild_cache.dir
