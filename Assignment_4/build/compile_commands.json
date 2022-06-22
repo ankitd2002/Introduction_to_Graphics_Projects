@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/AnkitDahiya/Desktop/305Graphics/Assignment_4/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDATA_DIR=\\\"/Users/AnkitDahiya/Desktop/305Graphics/Assignment_4/data/\\\" -isystem /Users/AnkitDahiya/Desktop/305Graphics/Assignment_4/../ext/eigen -isystem /Users/AnkitDahiya/Desktop/305Graphics/Assignment_4/../ext/stb -isystem /Users/AnkitDahiya/Desktop/305Graphics/Assignment_4/../ext/gif-h -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++11 -o CMakeFiles/assignment4.dir/src/main.cpp.o -c /Users/AnkitDahiya/Desktop/305Graphics/Assignment_4/src/main.cpp",
+  "file": "/Users/AnkitDahiya/Desktop/305Graphics/Assignment_4/src/main.cpp"
+}
+]
